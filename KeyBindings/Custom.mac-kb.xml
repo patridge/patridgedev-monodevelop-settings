@@ -15,8 +15,8 @@
     <binding command="MonoDevelop.Refactoring.RefactoryCommands.GotoDeclaration" shortcut="F12" />
     <binding command="MonoDevelop.Ide.Commands.EditCommands.FoldDefinitions" shortcut="Control+M|Control+O" />
     <binding command="MonoDevelop.Ide.Commands.EditCommands.ToggleFolding" shortcut="Control+M|Control+M" />
-    <binding command="MonoDevelop.AnalysisCore.AnalysisCommands.ShowFixes" shortcut="Meta+." />
     <binding command="MonoDevelop.Ide.Commands.EditCommands.ToggleCodeComment" shortcut="Control+K|Control+C" />
     <binding command="MonoDevelop.Ide.Commands.TextEditorCommands.DeleteToLineEnd" shortcut="" />
+    <binding command="MonoDevelop.Components.MainToolbar.Commands.NavigateTo" shortcut="" />
   </scheme>
 </schemes>
